@@ -16,5 +16,5 @@ Durante o desenvolvimento deste laboratório, aprofundei meus conhecimentos sobr
 ## 🌍 Impacto e Aplicação
 Esse laboratório me proporcionou uma visão clara sobre o funcionamento da computação em nuvem e me deu confiança para explorar recursos do Azure em projetos reais. A experiência prática reforçou o papel da nuvem na modernização tecnológica e na escalabilidade de aplicações.
 
-📌 **Link para o repositório**: [(https://github.com/jaqueline-barbosa/resumo-do-lab)]  
+📌 **Link para o repositório**: [https://github.com/jaqueline-barbosa/resumo-do-lab]  
 
